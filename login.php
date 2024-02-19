@@ -29,7 +29,7 @@ session_start();
                                 <div class="form-group">
                                     <div class="row">
                                         <label class="col-md-4 h6">Username</label>
-                                        <input type="text" name="username" class="form-control">
+                                        <input type="text" name="usernames" class="form-control">
                                     </div>
                                 </div>
                                 <div class="form-group mb-4">
